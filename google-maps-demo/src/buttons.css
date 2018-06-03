@@ -1,0 +1,27 @@
+.buttons { text-align: center;
+
+
+
+}
+
+.butt1  {
+
+    border-radius:50px;
+    background-color:sandybrown;
+    color:black;
+    padding:5px;
+    font-size:normal;
+    height: 100px;
+    width:100px;
+}
+
+.butt2  {
+
+    border-radius:50px;
+    background-color:sandybrown;
+    color:black;
+    padding:5px;
+    font-size:normal;
+    height: 100px;
+    width:100px;
+}
